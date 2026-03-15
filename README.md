@@ -1,8 +1,8 @@
 # Logistic Regression
 
-This project implements logistic regression i pYthon without using any additional libraries (yet)
+This project implements logistic regression in python without using any additional libraries (yet)
 
-The goal is to understand how logsitc regression works internallt, including gradient descent, sigmoid activation and parameter updates.
+The goal is to understand how logstic regression works internally, including gradient descent, sigmoid activation and parameter updates.
 
 ## Model
 The logistic regression model computes
